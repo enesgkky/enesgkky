@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/C4D16AQGD3EFeNKFAgQ/profile-displaybackgroundimage-shrink_350_1400/0/1668741003449?e=1700697600&v=beta&t=Tt_CIxY3kKLb-Xxp3Y29QKu9Vo9YgjN71Ah8gjJTGZ0)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQEWRP-v4TZ-dg/profile-displaybackgroundimage-shrink_350_1400/0/1695501074133?e=1700697600&v=beta&t=xDkXfZQ5Bbqc-pJA1B9Q1U-n6ozSYC9h_Uy21nObXXw)
 
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">Hi, I'm Enes, I'm on my way to becoming a Full Stack developer. Javascript is everything</h3>
