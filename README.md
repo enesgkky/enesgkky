@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQEWRP-v4TZ-dg/profile-displaybackgroundimage-shrink_350_1400/0/1695501075060?e=1707350400&v=beta&t=RltbsBWyV3lONCRpcJfpzLLz-b-_ZKNnVkO60ESgU_0)
 
 <h1 align="center">Hi 👋, I'm Enes</h1>
 <h3 align="center">Hi, I'm Enes, I'm on my way to becoming a Full Stack developer. Javascript is everything</h3>
