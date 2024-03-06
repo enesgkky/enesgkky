@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 📝 I regularly write articles on [https://medium.com/@eneagkky](https://medium.com/@eneagkky)
+- 📝 I regularly write articles on [https://enesgokkaya.com]
 
 - 💬 Ask me about **Javascript**
 
