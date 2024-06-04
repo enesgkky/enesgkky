@@ -14,6 +14,17 @@ Bu projede ... yaptım. Kullanılan teknolojiler: ...
 ### 2. [Başka Bir Proje](https://github.com/enesgkky/baska-proje)
 Bu projede ... yaptım. Kullanılan teknolojiler: ...
 
+## Blog Yazılarım
+
+Son blog yazılarımı buradan okuyabilirsiniz:
+
+[![Blog Yazılarım](https://img.shields.io/badge/Blog%20Yazılarım-Buraya%20Tıkla-blue)](https://enesgkky.com/blog)
+
+<!-- BLOG-POST-LIST:START -->
+1. [Blog Yazısı 1](https://enesgkky.com/blog/yazi-1)
+2. [Blog Yazısı 2](https://enesgkky.com/blog/yazi-2)
+<!-- BLOG-POST-LIST:END -->
+
 ## İletişim
 
 Bana ulaşmak için:
@@ -25,14 +36,10 @@ Bana ulaşmak için:
 
 ![Enesgkky's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesgkky&show_icons=true&theme=radical)
 
-## Son Blog Yazılarım
+## Web Sitem
 
-<!-- BLOG-POST-LIST:START -->
-- [Blog Yazısı 1](https://blog-link-1)
-- [Blog Yazısı 2](https://blog-link-2)
-<!-- BLOG-POST-LIST:END -->
-
-Daha fazla bilgi için repositorilere göz atın ve yıldız vermeyi unutmayın ⭐
+Daha fazla bilgi ve içerik için web sitemi ziyaret edebilirsiniz:
+[![Web Sitem](https://img.shields.io/badge/Web%20Sitem-Buraya%20Tıkla-brightgreen)](https://enesgkky.com)
 
 ---
 
