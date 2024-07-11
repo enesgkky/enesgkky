@@ -6,7 +6,7 @@
             await code();
             toMuchSleep()
                 .then(() => ?iAmDead() && clearInterval(startDay))
-        },lifeTime)
+        },oneDay)
     }    
 ```
 
