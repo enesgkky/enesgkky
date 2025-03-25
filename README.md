@@ -14,20 +14,19 @@ I'm a **software developer** passionate about **web technologies**, focusing on 
 
 ### 📊 GitHub Stats  
 
-![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)  
+![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesgkky&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesgkky&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enesgkky&theme=radical)  
 
 ### 🔥 Recent Projects  
 
-🚀 **[Project Name](https://github.com/your-username/project-repo)** – A brief description of your project.
+🚀 **[Project Name](https://github.com/enesgkky/project-repo)** – A brief description of your project.
 
-🚀 **[Another Project](https://github.com/your-username/project-repo)** – Another brief description.
+🚀 **[Another Project](https://github.com/enesgkky/project-repo)** – Another brief description.
 
 ### 🌍 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/enes-g%C3%B6kkaya/))  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/enesgkky1)  
 
 ---
 💡 *"Talk is cheap. Show me the code."* – Linus Torvalds  
