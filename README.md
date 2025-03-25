@@ -16,7 +16,6 @@ I'm a **software developer** passionate about **web technologies**, focusing on 
 
 ![Enes's GitHub stats](https://github-readme-stats.vercel.app/api?username=enesgkky&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enesgkky&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enesgkky&theme=radical)  
 
 ### 🔥 Recent Projects  
 
